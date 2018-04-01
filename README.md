@@ -16,4 +16,4 @@ _**Design patterns:**_
 9- Singleton design pattern. <br>
 10- Strategy design pattern. <br>
 
-&c https://github.com/menagabara/
+&copy; https://github.com/menagabara/
